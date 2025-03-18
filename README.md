@@ -14,13 +14,10 @@
 - **Cloud Services:** AWS (IAM, EC2, S3, RDS, VPC, CloudWatch, ELB)  
 - **Programming:** Python, Bash, YAML  
 - **Databases:** MySQL, PostgreSQL
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/rohit kulkarni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rohit kulkarni" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rohit kharait" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohit kharait" height="30" width="40" /></a>
-<a href="https://fb.com/rohitkulkarni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rohitkulkarni" height="30" width="40" /></a>
-<a href="https://instagram.com/krishna.kulkarniii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="krishna.kulkarniii" height="30" width="40" /></a>
-</p>
+## 📬 Connect with Me  
+- 🔗 **LinkedIn:** [linkedin.com/in/rohitkharait](https://linkedin.com/in/rohitkharait)  
+- 📧 **Email:** rohit.kharait@example.com  
+- 🐦 **Twitter:** [twitter.com/rohitkharait](https://twitter.com/rohitkharait)  
 
  <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
