@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rohit Kharait</h1>
 🚀  Aspiring DevOps Engineer | Cloud Enthusiast | AI & Data Science Student !!
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RohitKharait&label=Profile%20views&color=0e75b6&style=flat" alt="jaiswaladi246" /> </p>
-![DevOps Infinity Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Devops-toolchain-infinity.svg/1920px-Devops-toolchain-infinity.svg.png)  
+<img align="right" alt="DevOps" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - ## 🌟 About Me  
 - 🎓 Pursuing **B.Tech in AI & Data Science** at Pune University.  
