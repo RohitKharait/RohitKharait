@@ -1,13 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rohit Kharait</h1>
 🚀  Aspiring DevOps Engineer | Cloud Enthusiast | AI & Data Science Student !!
 
-- 🌱 I’m currently learning **kubernetes**
-
-- 🤝 I’m looking for help with **cloud native projects**
-
-- 💬 Ask me about **Devops Cloud**
-
-- 📫 How to reach me **rohit.kharait@outlook.com**
 
 - ## 🌟 About Me  
 - 🎓 Pursuing **B.Tech in AI & Data Science** at Pune University (Final Year).  
@@ -16,7 +9,11 @@
 - 🔧 Exploring **AWS, Kubernetes, Docker, Terraform, Ansible, Jenkins, Git**.  
 - 💡 Passionate about **automating workflows and deploying cloud-native applications**.  
 
-
+## ⚡ Technical Skills  
+- **DevOps Tools:** Git, Docker, Kubernetes, Ansible, Terraform, Jenkins, SonarQube, Maven  
+- **Cloud Services:** AWS (IAM, EC2, S3, RDS, VPC, CloudWatch, ELB)  
+- **Programming:** Python, Bash, YAML  
+- **Databases:** MySQL, PostgreSQL
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/rohit kulkarni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rohit kulkarni" height="30" width="40" /></a>
