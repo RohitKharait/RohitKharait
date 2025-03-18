@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rohit Kharait</h1>
-🚀  Aspiring DevOps Engineer | Cloud Enthusiast | AI & Data Science Student !!
+🚀  DevOps Enthusiast | Cloud Enthusiast | AI & Data Science Student !!
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RohitKharait&label=Profile%20views&color=0e75b6&style=flat" alt="jaiswaladi246" /> </p>
 <img align="right" alt="DevOps" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">  
 
