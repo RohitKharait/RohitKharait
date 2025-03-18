@@ -9,6 +9,14 @@
 
 - 📫 How to reach me **rohit.kharait@outlook.com**
 
+- ## 🌟 About Me  
+- 🎓 Pursuing **B.Tech in AI & Data Science** at Pune University (Final Year).  
+- 🌱 **Learning DevOps** and cloud technologies to build scalable solutions.  
+- ☁️ Interested in **Cloud Computing, CI/CD, and Infrastructure as Code**.  
+- 🔧 Exploring **AWS, Kubernetes, Docker, Terraform, Ansible, Jenkins, Git**.  
+- 💡 Passionate about **automating workflows and deploying cloud-native applications**.  
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/rohit kulkarni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rohit kulkarni" height="30" width="40" /></a>
