@@ -14,9 +14,8 @@
 - **Programming:**  Bash, YAML, HCL, Groovy.
 
 ## 📬 Connect with Me  
-- 🔗 **LinkedIn:** [https://www.linkedin.com/in/rohit-kharait/])  
+- 🔗 **LinkedIn:** [https://www.linkedin.com/in/rohit-kharait/] 
 - 📧 **Email:**  rohit.kharait@outlook.com  
-- 🐦 **Twitter:** [twitter.com/rohitkharait](https://twitter.com/rohitkharait)  
 
  <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
