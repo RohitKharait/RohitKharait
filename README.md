@@ -14,7 +14,7 @@
 - **Programming:**  Bash, YAML, HCL, Groovy.
 
 ## 📬 Connect with Me  
-- 🔗 **LinkedIn:** [linkedin.com/in/rohitkharait](https://linkedin.com/in/rohitkharait)  
+- 🔗 **LinkedIn:** [https://www.linkedin.com/in/rohit-kharait/])  
 - 📧 **Email:**  rohit.kharait@outlook.com  
 - 🐦 **Twitter:** [twitter.com/rohitkharait](https://twitter.com/rohitkharait)  
 
