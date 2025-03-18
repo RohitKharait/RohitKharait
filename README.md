@@ -7,12 +7,12 @@
 - 🎓 Pursuing **B.Tech in AI & Data Science** at Pune University.  
 - 🌱 **Learning DevOps** and cloud technologies to build scalable solutions.  
 - ☁️ Interested in **Cloud Computing, CI/CD, and Infrastructure as Code**.  
-- 🔧 Exploring **AWS, Kubernetes, Docker, Terraform, Jenkins, Git**.  
+- 🔧 Exploring **AWS, Kubernetes, Docker, Terraform, Jenkins, Git, Linux**.  
 - 💡 Passionate about **automating workflows and deploying cloud-native applications**.  
 
 ## ⚡ Technical Skills  
-- **DevOps Tools:** Git, Docker, Kubernetes, Terraform, Jenkins, SonarQube, Maven, Nginx. 
-- **Cloud Services:** AWS (IAM, EC2, S3, RDS, VPC, CloudWatch, ELB, CloudFront, ACM, Route53, SNS,)  
+- **DevOps Tools:** Git, Docker, Kubernetes, Terraform, Jenkins, SonarQube, Trviy, Nginx, Grafana. 
+- **Cloud Services:** AWS (IAM, EC2, S3, RDS, VPC, CloudWatch, ELB, CloudFront, ACM, Route53, SNS)  
 - **Programming:**  Bash, YAML, HCL, Groovy.
 
  <div align="left">
