@@ -15,13 +15,28 @@
 - **Cloud Services:** AWS (IAM, EC2, S3, RDS, VPC, CloudWatch, ELB, CloudFront, ACM, Route53, SNS,)  
 - **Programming:**  Bash, YAML, HCL, Groovy.
   
-## 📬 Connect with Me  
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/rohit-kharait" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohit-kharait" height="30" width="40" /></a>
-<a href="https://instagram.com/krishna.kulkarniii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="krishna.kulkarniii" height="30" width="40" /></a>
-<a href="mailto:rohit.kharait@outlook.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/outlook.svg" alt="rohit.kharait@outlook.com" height="30" width="40" /></a>
-</p>
+###
+
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
+</div>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/rohit-kharait" target="blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+  </a>
+  <a href="mailto:rohit.kharait@outlook.com" target="blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo" />
+  </a>
+  <a href="https://instagram.com/krishna.kulkarniii" target="blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
+  </a>
+</div>
+
+###
+
  
 
  <div align="left">
