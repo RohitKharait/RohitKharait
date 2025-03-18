@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rohit Kharait</h1>
-<h3 align="center">A passionate Devops Engineer from India</h3>
+🚀  Aspiring DevOps Engineer | Cloud Enthusiast | AI & Data Science Student !!
 
 - 🌱 I’m currently learning **kubernetes**
 
