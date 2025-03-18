@@ -1,22 +1,21 @@
 <h1 align="center">Hi 👋, I'm Rohit Kharait</h1>
 🚀  Aspiring DevOps Engineer | Cloud Enthusiast | AI & Data Science Student !!
 
-
 - ## 🌟 About Me  
-- 🎓 Pursuing **B.Tech in AI & Data Science** at Pune University (Final Year).  
+- 🎓 Pursuing **B.Tech in AI & Data Science** at Pune University.  
 - 🌱 **Learning DevOps** and cloud technologies to build scalable solutions.  
 - ☁️ Interested in **Cloud Computing, CI/CD, and Infrastructure as Code**.  
-- 🔧 Exploring **AWS, Kubernetes, Docker, Terraform, Ansible, Jenkins, Git**.  
+- 🔧 Exploring **AWS, Kubernetes, Docker, Terraform, Jenkins, Git**.  
 - 💡 Passionate about **automating workflows and deploying cloud-native applications**.  
 
 ## ⚡ Technical Skills  
-- **DevOps Tools:** Git, Docker, Kubernetes, Ansible, Terraform, Jenkins, SonarQube, Maven  
-- **Cloud Services:** AWS (IAM, EC2, S3, RDS, VPC, CloudWatch, ELB)  
-- **Programming:** Python, Bash, YAML  
-- **Databases:** MySQL, PostgreSQL
+- **DevOps Tools:** Git, Docker, Kubernetes, Terraform, Jenkins, SonarQube, Maven, Nginx. 
+- **Cloud Services:** AWS (IAM, EC2, S3, RDS, VPC, CloudWatch, ELB, CloudFront, ACM, Route53, SNS,)  
+- **Programming:**  Bash, YAML, HCL, Groovy.
+
 ## 📬 Connect with Me  
 - 🔗 **LinkedIn:** [linkedin.com/in/rohitkharait](https://linkedin.com/in/rohitkharait)  
-- 📧 **Email:** rohit.kharait@example.com  
+- 📧 **Email:**  rohit.kharait@outlook.com  
 - 🐦 **Twitter:** [twitter.com/rohitkharait](https://twitter.com/rohitkharait)  
 
  <div align="left">
