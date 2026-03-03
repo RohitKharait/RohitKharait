@@ -4,7 +4,7 @@
 <img align="right" alt="DevOps" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">  
 
 - ## 🌟 About Me  
-- 🎓 Pursuing **B.Tech in AI & Data Science** at Pune University.  
+- 🎓  **B.Tech in AI & Data Science** at Pune University.  
 - 🌱 **Learning DevOps** and cloud technologies to build scalable solutions.  
 - ☁️ Interested in **Cloud Computing, CI/CD, and Infrastructure as Code**.  
 - 🔧 Exploring **AWS, Kubernetes, Docker, Terraform, Jenkins, Git, Linux**.  
